@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: #3b75bb;
 }
 
 #tentacles {
@@ -19,17 +19,28 @@ body {
     margin-top: -10px;
 }
 
+.header-text {
+    text-align: center;
+    margin: auto;
+}
+
 .stats-container {
     display: flex;
+    align-items: normal;
 }
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: #b5c9e8;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
     width: 100%;
     text-align: center;
+}
+
+.stats-card:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 #num-contributions, #total-raised, #num-games {
