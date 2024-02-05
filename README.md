@@ -1,4 +1,4 @@
-# WEB102 Prework - _Name of App Here_
+# WEB102 Prework - Sea Monster Game Page
 
 Submitted by: Daniel Chuang
 
